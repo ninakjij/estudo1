@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: inherit;
+    outline: none;
+
+}
+
+
+
+body {
+
+     background-image: url(HORIZONTE\ DISTANTE\ 00.jpeg);
+
+    background-color: black ;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow-x: hidden;
+    background-color: black;
+    background-repeat: no-repeat;
+   
+
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+   background-color: rgb(0, 0, 0, 0.45);
+}
+   
+
+
+.navbar a {
+    margin: 0 1rem;
+     font-size: 20px;
+    color: rgb(244, 242, 242);
+    font-family: "Orbitron", sans-serif;
+    font-style: normal;padding: 3px;
+   
+}
+
+.header a:hover {
+     background-image: url("nina.png");
+     background-position: right;
+     background-size: 30px;
+    background-repeat: no-repeat;
+    align-items: center;
+    color: rgb(60, 58, 58);
+    font-size: 22px;
+    transition: 2ms;
+    text-decoration: none;
+
+}
+
+
+
+
+/*box................................................................*/
+
+
+.box-text{
+ margin-left: 3%;
+  margin-right:  10% ;
+  
+}
+#title h1 {
+    font-size: 50px;
+   margin-top: 2%;
+   color: rgb(76, 72, 72);
+   margin-left: 7%;
+   
+      }
+      .box-text p {
+        text-align: justify;
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-style: normal;
+        margin-top: 4%;
+   
+
+        }
+  
+
+/*footer................................................................*/
+
+.link-footer :hover {
+
+    background-image: url("line.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    color: brown;
+    font-size: 30px;
+    transition: 2ms;
+}
+
+.icons img:hover {
+    align-items: center;
+    transition: 2s;
+}
+
+
+input{
+   width: 90%;
+     height: 2%;
+}
+#mensagem {
+    width: 90%;
+    padding: 1%;
+}
+button {
+ margin-left: 20%;
+ width: 90%;
+     border: none;
+    border-radius: 5px;
+   color: rgb(18, 18, 18);
+    cursor: pointer;
+    font-size: 20px;
+    cursor: pointer;
+  
+}
+
+button:hover {
+    background-color: #4d4a4a73;
+}
+
+
+/*footer................................................................*/
+
+.link-footer :hover {
+
+    background-image: url("line.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    align-items: center;
+    color: brown;
+    font-size: 30px;
+    transition: 2ms;
+}
+
+icons img:hover {
+    align-items: center;
+    transition: 2s;
+     display: flex;
+
+
+    }
+footer{
+
+    left: 3px;
+    width: 100%;
+   background-color: rgb(70, 70, 70);
+    margin-bottom: 0%;
+    bottom: 0%;
+    display: flex;
+    color:aliceblue;
+    align-items: center;
+    text-align: center;
+  overflow: hidden;
+
+
+}
+
+
+
+.icons {
+    width: 40%;
+    display: flex;
+    margin-left: 2%;
+    gap: 60px;
+    justify-content: space-between;
+
+}
+
+.icons img {
+
+    margin: 1rem;
+    margin-left: 5%;
+    justify-content: space-between;
+
+
+}
+.section h3 {
+    margin-top: 1%;
+}
