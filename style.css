@@ -80,10 +80,8 @@ button {
     align-items: center;
     width: 50%;  
 }
-
 body {
     width: 100%;
-   
 }
 #back1{
   width: 100%;
@@ -104,9 +102,7 @@ text-transform: uppercase;
 .back3{
 background-image: url(ee3172c11c51c1b5a9cebaa4dafc8f57.jpg);
 display: flex;
- padding: 4%;
 background-size: cover;
-width: 100%;
 
 }
 .card1{
