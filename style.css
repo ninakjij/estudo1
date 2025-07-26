@@ -61,7 +61,7 @@ height: 100%;
 }
 
 input{
-   width: 90%;
+   
      height: 2%;
 }
 #mensagem {
@@ -70,7 +70,7 @@ input{
 }
 button {
 
- width: 70%;
+ 
      border: none;
     border-radius: 5px;
    
@@ -162,7 +162,7 @@ float: left;
     width: 40%;
     display: flex;
     margin-left: 2%;
-    gap: 60px;
+   
     justify-content: space-between;
 
 }
@@ -175,9 +175,4 @@ float: left;
 .py-5 li{
   margin-left: 7%;
 
-}
-.carousel  img{
-  width: 100px;
-  height: 700px ;
-  background-color: aqua;
 }
